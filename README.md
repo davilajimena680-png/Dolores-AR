@@ -9,7 +9,7 @@ Rojo: la prueba falla porque `distanciaMetros` todavía no existe en `geo.dart`.
 
 ![Distancia rojo](assets/R1_ROJO_distancia.png)
 
-Verde: se implementa `Coordenada` y `distanciaMetros`, y pasan las 4 pruebas.
+Verde: se implementa `Coordenada` y `distanciaMetros`, y pasan las 9 pruebas.
 
 ![Motor AR verde](assets/R4_VERDE_motor-ar.png)
 
